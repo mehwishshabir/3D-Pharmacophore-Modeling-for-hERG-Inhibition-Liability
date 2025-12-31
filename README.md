@@ -17,8 +17,8 @@ The final model was optimized for the best balance between Sensitivity and Speci
 ## Pharmacophore Query Configuration
 The query consists of four primary features strategically positioned to mimic the binding mode of highly active hERG inhibitors.
 
-![Pharmacophore Search Setup](images/Screening_image.png)
-*Figure 1: Pharmacophore Query Editor and Search interface in MOE.*
+![Pharmacophore Search Setup](images/Features.png)
+*Figure 1: 3D Pharmacophore model showing the spatial arrangement of identified features: F1: Don&Acc (pink), F2: Hyd (green), F3: Aro (orange), and F4: Acc2 (cyan). Inter-feature distances (Å) are provided to define the specific geometry required for hERG interaction.*
 
 ## Validation & Performance
 The model was validated against a test set, achieving an **Accuracy of 86.67%**.
